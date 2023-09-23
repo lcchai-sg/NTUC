@@ -1,92 +1,96 @@
-4         470       Jalan Kayu                              Blk 447A Jalan Kayu, #01-01/02, 791447
-5         471       Katong Village Hotel                    30 East Coast Road Katong Village Hotel #01-06/07/08/09, 428751
-6         472       Kitchener Complex                       Blk 808 French Road, #01-01, 200808
-7         473       Bedok Mall                              311 New Upper Changi Road #B2-60, Bedok Mall, 467360
-8         474       NUH Medical Centre                      1 Lower Kent Ridge Road, #02-16 NUH Medical Centre, 119082
-10        480       The Seletar Mall                        33 Sengkang West Avenue #B2-24 Seletar Mall, 797653
-11        478       Warehouse Club                          1 Joo Koon Circle, Level 3,629117
-12        434       Jurong Point (JP2)                      63 Jurong Central 3, #03-01 Jurong Point, 648331
-13        355       Sun Plaza (FFS)                         30 Sembawang Drive, #B1-01/02 Sun Plaza, 757713
-14        484       Waterway Point                          83 Punggol Central #B2-32  Waterway Point, 828761
-16        312       Bishan Blk 510                          Blk 510 Bishan St 13 #01-520, 570510
-17        476       Hyper Sports Hub (FFS)                  1 Stadium Place, #01-29 Singapore Sports Hub, 397628
-18        485       Serangoon View                          Blk 476 Upper Serangoon View, #02-18, 530476
-19        427       Sembawang Way                           Blk 355 Sembawang Way #01-01, 750355
-20        428       Changi Airport T3                       65 Airport Boulevard, Basement 2 North Unit B2LS2, #B2-10, Terminal 3, 819663
-21        429       Dover                                   Blk 28 Dover Crescent, #01-83, 130028
-22        430       Upper Boon Keng                         Blk 5 Upper Boon Keng Road, #01-05, 380005
-23        431       Compassvale Link                        Blk 277C Compassvale Link, #01-13, 543277
-24        432       Lorong Limau                            Blk 80 Lorong Limau, #01-191, 320080
-25        435       Buona Vista CC                          Blk 36 Holland Drive, #01-03/04/05, 270036
-26        437       Yew Tee Point                           21 Choa Chu Kang North 6, Yew Tee Point, #B1-01, 689578
-27        438       Joo Chiat Complex                       Blk 2 Joo Chiat Road #01-1139/#02-1139, Joo Chiat Complex, 420002
-28        439       City Square Mall                        180 Kitchener Road, City Square Mall, #B1-09/10, 208539
-29        440       Kang Kar Mall                           100 Hougang Ave 10 #01-01/#02-01, Kang Kar Mall, 538767
-30        444       Canberra Road Blk 511                   Blk 511 Canberra Road, #02-03, 750511
-31        445       Eunos Crescent Blk 5                    Blk 5 Eunos Crescent #01-2619/21, 400005
-32        446       Circuit Road Blk 77                     Blk 77 Circuit Road #01-464/466, 370077
-33        098       Orchid Country Club (DS)                #01-34 Level 1,Orchid Country Club,1 Orchid Club Rd,769162
-34        449       Nex                                     23 Serangoon Central, #03-42 Nex Mall, 556083
-35        450       The Clementi Mall                       3155 Commonwealth Avenue West #B1-12/13/14 The Clementi Mall, 129588
-36        451       MyVillage                               1 Maju Ave #B1-11 to #B1-K09 Serangoon Garden Village, 556679
-38        454       Kim Tian                                18/20 Kim Tian Road, 169252
-39        455       Bishan North Blk 279                    Blk 279 Bishan St 24, #01-62/64, 570279
-40        456       Lengkong Tiga                           Blk 110 Lengkong Tiga, #01-233/235, 410110
-41        457       Geylang Lorong 38                       612/620 Geylang Lorong 38, 389551
-43        459       Scotts Square                           6 Scotts Road #B1-03 to 07 and #B1-10 Scotts Square, 228209
-44        460       PSA Branch                              460 Alexandra Road, #01-09 and #01-16, 119963
-45        461       Hyper Changi (FFS)                      8 Changi Business Park Ave 1, #01-51& #02-51, 486018
-46        462       Zhong Shan Park                         20 Ah Hood Road #02-01 Zhong Shan Park, 329984
-47        463       Chinatown Point                         133 New Bridge Road, #B1-01 Chinatown Point, 059413
-48        464       100AM                                   100 Tras Street #B1-01 100AM, 079027
-49        465       Woodlands Ave 1                         Blk 570B Woodlands Ave 1, #01-06, 732570
-50        466       Valley Point                            491 River Valley Road #01-14 Valley Point, 248371
-51        467       West Coast                              Blk 502 West Coast Drive, #01-41, 120502
-52        469       Hyper Jem (FFS)                         50 Jurong Gateway Road, #B1-21/22 & #B3-01, 608549
-53        481       Redhill                                 20 Lengkok Bahru, #01-13, 159053
-54        488       Jalan Bukit Merah                       1 Jalan Bukit Merah, #01-4500, 150001
-55        477       Bukit Batok HT                          2 Bukit Batok West Ave 7 #01-10, HomeTeamNS Bukit Batok Clubhouse, 659003
-58        499       Yew Tee MRT                             61 Choa Chu Kang Drive, #01-01 Yew Tee MRT Station, 689715
-59        314       Changi City Point                       5 Changi Business Park Central 1 #B1-09/10/11 Changi City Point, 486038
-60        494       Tai Seng                                18 Tai Seng Street, Maple Tree 18 #B1-13, 539775
-61        344       SingPost Centre                         10 Eunos Road 8, SingPost Centre, #B1-101 to 107, 408600
-62        317       Toa Payoh Blk 95                        Blk 95 Toa Payoh Lorong 4, #01-68/70/72, 310095
-63        316       Bendemeer Road                          Blk 30 Bendemeer Road, #01-871, 330030
-64        496       Wisteria Mall (CNC)                     598 Yishun Ring Road, #01-01Wisteria Mall, 768698
-65        366       111 Somerset                            111 Somerset Road, #01-01/02, #01-21 to 30, 238164
-66        351       Punggol Oasis (FFS)                     681 Punggol Drive Oasis Terraces, #B1-01, 820681
-67        348       Ghim Moh Link                           Blk 29A, Ghim Moh Link, #01-01, 271029
-68        453       Punggol Drive Blk 612                   Blk 612 Punggol Drive, #01-06, 820612
-69        347       Kampung Admiralty                       Blk 676 Woodlands Drive 71, #B1-02, Kampung Admiralty, 730676
-70        495       Northpoint City                         1 Northpoint Drive, Northpoint City, #B2-103 to 107, 768019
-71        491       Jurong East Blk 249                     Blk 249 Jurong East St 24, #01-106, 600249
-72        493       Silat Ave Blk 150                       Blk 150 Silat Ave, #01-44, 60150
-73        483       Bukit Batok West                        Blk 166 Bukit Batok West Ave 8, #01-256/258, 650166
-74        301       Our Tampines Hub                        1 Tampines Walk, Our Tampines Hub, #B1-01, 528523
-76        479       Jurong East 345                         Blk 345 Jurong East St 31, #01-29, 600345
-77        482       Sengkang East Avenue                    Blk 279 Sengkang East Avenue, #01-06, 540279
-78        304       Bukit Batok MRT                         10 Bukit Batok Central, #01-08, 659958
-79        305       Bukit Ho Swee                           Blk 50 Havelock Rd, #01-755, 160050
-80        306       Boon Lay Shopping Complex               Blk 221 Boon Lay Place #02-200, Boon Lay Shopping Complex, 640221
-81        307       Bukit Merah Central - FFS               Blk 166 Bukit Merah Central, #01-3531 & 02-3531, 150166
-82        308       Bedok North                             Blk 212 Bedok Nth St 1, #01-147, 460212
-83        309       Bedok Nth Blk 89                        Blk 89 Bedok Nth St 4, #01-77/79, 460089
-84        310       Bukit Panjang Plaza                     No.1 Jelebu Rd, #01-15 & #02-20 Bukit Panjang Plaza, 677743
-85        313       Bukit Timah Plaza                       No.1 Jln Anak Bukit #B1-01 & #B2-01 Bukit Timah Plaza, 588996
-86        318       CHANGI AIRPORT T2                       #B16-029,Basement Level South Terminal 2,65 Airport Boulevard,819643
-87        319       Clementi A (Blk 451)                    Blk 451 Clementi Ave 3, #01-307,120451
-88        320       Clementi Blk 352                        Blk 352 Clementi Ave 2, #01-141/143, 120352
-89        321       Coronation Plaza (closed)               587 Bukit Timah Rd #01-01, Coronation Plaza, 269707
-90        324       Eastpoint                               3 Simei St 6, #05-01 Eastpoint, 528833
-91        325       Geylang East                            Blk 114 Aljunied Ave 2, #01-75, 380114
-92        326       Blk 202 Hougang St 21                   Blk 202 Hougang St 21#01-00, 530202
-93        327       Hougang Blk 682                         Blk 682 Hougang Ave 4, #01-310, 530682
-94        329       Hougang Mall                            90 Hougang Ave 10, Hougang Mall, #B1-07, 538766
-95        331       Jurong East                             Blk 135 Jurong Gateway Road, #01-337, 600135
-97        334       Jalan Teck Whye                         Blk 140 Teck Whye Lane, #01-351, 680140
-98        335       Jurong West St 41                       498 Jurong West Street 41, #01-426, Singapore 640498
-99        336       Kallang Bahru                           Blk 71 Kallang Bahru, #01-529/#02-531, 330071
-100       337       Limbang Shopping Centre                 Blk 533 Choa Chu Kang St 51 #01-01, Limbang Shopping Centre, 680533
+{id:"4"},{address1:"477A Jalan Kayu",address2:"#01-01/02",address3:"791447",unit:"#01-01/02"}
+{id:"5"},{address1:""30 East Coast Road,address2:"#01-06/07/08/09",address3:"428751",building:"Katong Village Hotel",unit:"#01-06/07/08/09"}
+{id:"6"},{address1:"808 French Road",address2:"#01-01",address3:"200808",building:"Kitchener Complex",unit:"#01-01"}
+{id:""7},{address1:"311 New Upper Changi Road",address2:"#B2-60",address3:"467360",building:"Bedok Mall",unit:"#B2-60"}
+{id:"8"},{address1:"1 Lower Kent Ridge Road",address2:"#02-16",address3:"119082",building:"NUH Medical Centre",unit:"#02-16"}
+{id:"10"},{address1:"33 Sengkang West Avenue",address2:"#B2-24",address3:"797653",building:"Seletar Mall",unit:"#B2-24"}
+{id:"11"},{address1:"1 Joo Koon Circle",address2:"Level 3",address3:"629117",building:"Warehouse Club",unit:"Level 3"}
+{id:"12"},{address1:"63 Jurong Central 3",address2:"#03-01",address3:"648331",building:"Jurong Point",unit:"#03-01"}
+{id:"13"},{address1:"30 Sembawang Drive",address2:"#B1-01/02",address3:"757713",building:"Sun Plaza",unit:"#B1-01/02"}
+{id:"14"},{address1:"83 Punggol Central",address2:"#B2-32",address3:"828761",building:"Waterway Point",unit:"#B2-32"}
+{id:"16"},{address1:"510 Bishan St 13",address2:"#01-520",address3:"570510",building:"",unit:"#01-520"}
+{id:"17"},{address1:"1 Stadium Place",address2:"#01-29",address3:"397628",building:"Singapore Sports Hub",unit:"#01-29"}
+{id:"18"},{address1:"476 Upper Serangoon View",address2:"#02-18",address3:"530476",building:"",unit:"#02-18"}
+{id:"19"},{address1:"355 Sembawang Way",address2:"#01-01",address3:"750355",building:"",unit:"#01-01"}
+{id:"20"},{address1:"65 Airport Boulevard",address2:"#B2-10",address3:"819663",building:"Changi Airport T3",unit:"Basement 2 North Unit B2LS2"}
+{id:"21"},{address1:"28 Dover Crescent",address2:"#01-83",address3:"130028",building:"",unit:"#01-83"}
+{id:"22"},{address1:"5 Upper Boon Keng Road",address2:"#01-05",address3:"380005",building:"",unit:"#01-05"}
+{id:"23"},{address1:"277C Compassvale Link",address2:"#01-13",address3:"543277",building:"",unit:"#01-13"}
+{id:"24"},{address1:"80 Lorong Limau",address2:"#01-191",address3:"320080",building:"",unit:"#01-191"}
+{id:""25},{address1:"36 Holland Drive",address2:"#01-03/04/05",address3:"270036",building:"Buona Vista CC",unit:"#01-03/04/05"}
+{id:"26"},{address1:"21 Choa Chu Kang North 6",address2:"#B1-01",address3:"689578",building:"Yew Tee Point",unit:"#B1-01"}
+{id:"27"},{address1:"2 Joo Chiat Road",address2:"#01-1139/#02-1139",address3:"420002",building:"Joo Chiat Complex",unit:"#01-1139/#02-1139"}
+{id:"28"},{address1:"180 Kitchener Road",address2:"#B1-09/10",address3:"208539",building:"City Square Mall",unit:"#B1-09/10"}
+{id:"29"},{address1:"100 Hougang Ave 10",address2:"#01-01/#02-01",address3:"538767",building:"Kang Kar Mall",unit:"#01-01/#02-01"}
+{id:"30"},{address1:"511 Canberra Road",address2:"#02-03",address3:"750511",building:"",unit:"#02-03"}
+{id:"31"},{address1:"5 Eunos Crescent",address2:"#01-2619/21",address3:"400005",building:"",unit:"#01-2619/21"}
+{id:"32"},{address1:"77 Circuit Road",address2:"#01-464/466",address3:"370077",building:"",unit:"#01-464/466"}
+{id:"33"},{address1:"1 Orchid Club Rd",address2:"#01-34",address3:"769162",building:"Orchid Country Club",unit:"#01-34"}
+{id:"34"},{address1:"23 Serangoon Central",address2:"#03-42",address3:"556083",building:"Nex Mall",unit:"#03-42"}
+{id:"35"},{address1:"3155 Commonwealth Avenue West",address2:"#B1-12/13/14",address3:"129588",building:"Clementi Mall",unit:"#B1-12/13/14"}
+{id:"36"},{address1:"1 Maju Ave",address2:"#B1-11 to #B1-K09",address3:"556679",building:"Serangoon Garden Village",unit:"#B1-11 to #B1-K09"}
+{id:"38"},{address1:"18/20 Kim Tian Road",address2:"",address3:"169252",building:"",unit:""}
+{id:"39"},{address1:"279 Bishan St 24",address2:"#01-62/64",address3:"570279",building:"",unit:"#01-62/64"}
+{id:"40"},{address1:"110 Lengkong Tiga",address2:"#01-233/235",address3:"410110",building:"",unit:"#01-233/235"}
+{id:"41"},{address1:"612/620 Geylang Lorong 38",address2:"612/620",address3:"389551",building:"",unit:""}
+{id:"43"},{address1:"6 Scotts Road",address2:"#B1-03 to 07 and #B1-10",address3:"228209",building:"Scotts Square",unit:"#B1-03 to 07 and #B1-10"}
+{id:"44"},{address1:"460 Alexandra Road",address2:"#01-09 and #01-16",address3:"119963",building:"PSA Branch",unit:"#01-09 and #01-16"}
+{id:"45"},{address1:"8 Changi Business Park Ave 1",address2:"#01-51& #02-51",address3:"486018",building:"Hyper Changi",unit:"#01-51& #02-51"}
+{id:"46"},{address1:"20 Ah Hood Road",address2:"#02-01",address3:"329984",building:"Zhong Shan Park",unit:"#02-01"}
+{id:"47"},{address1:"133 New Bridge Road",address2:"#B1-01",address3:"059413",building:"Chinatown Point",unit:"#B1-01"}
+{id:"48"},{address1:"100 Tras Street",address2:"#B1-01",address3:"079027",building:"100AM",unit:"#B1-01"}
+{id:"49"},{address1:"570B Woodlands Ave 1",address2:"#01-06",address3:"732570",building:"",unit:"#01-06"}
+{id:"50"},{address1:"491 River Valley Road",address2:"#01-14",address3:"248371",building:"Valley Point",unit:"#01-14"}
+{id:"51"},{address1:"502 West Coast Drive",address2:"#01-41",address3:"120502",building:"",unit:"#01-41"}
+{id:"52"},{address1:"50 Jurong Gateway Road",address2:"#B1-21/22 & #B3-01",address3:"608549",building:"Hyper Jem",unit:"#B1-21/22 & #B3-01"}
+{id:"53"},{address1:"20 Lengkok Bahru",address2:"#01-13",address3:"159053",building:"",unit:"#01-13"}
+{id:"54"},{address1:"1 Jalan Bukit Merah",address2:"#01-4500",address3:"150001",building:"",unit:"#01-4500"}
+{id:"55"},{address1:"2 Bukit Batok West Ave 7",address2:"#01-10",address3:"659003",building:"HomeTeamNS Bukit Batok Clubhouse",unit:"#01-10"}
+{id:"58"},{address1:"61 Choa Chu Kang Drive",address2:"#01-01",address3:"689715",building:"Yew Tee MRT Station",unit:"#01-01"}
+{id:"59"},{address1:"5 Changi Business Park Central 1",address2:"#B1-09/10/11",address3:"486038",building:"Changi City Point",unit:"#B1-09/10/11"}
+{id:"60"},{address1:"18 Tai Seng Street",address2:"#B1-13",address3:"539775",building:"Maple Tree 18",unit:"#B1-13"}
+{id:"61"},{address1:"10 Eunos Road 8",address2:"#B1-101 to 107",address3:"408600",building:"SingPost Centre",unit:"#B1-101 to 107"}
+{id:"62"},{address1:"95 Toa Payoh Lorong 4",address2:"#01-68/70/72",address3:"310095",building:"",unit:"#01-68/70/72"}
+{id:"63"},{address1:"30 Bendemeer Road",address2:"#01-871",address3:"330030",building:"",unit:"#01-871"}
+{id:"64"},{address1:"598 Yishun Ring Road",address2:"#01-01",address3:"768698",building:"Wisteria Mall",unit:"#01-01"}
+{id:"65"},{address1:"111 Somerset Road",address2:"#01-01/02, #01-21 to 30",address3:"238164",building:"111 Somerset",unit:"#01-01/02, #01-21 to 30"}
+{id:"66"},{address1:"681 Punggol Drive Oasis Terraces",address2:"#B1-01",address3:"820681",building:"Punggol Oasis Terraces",unit:"#B1-01"}
+{id:"67"},{address1:"29A Ghim Moh Link",address2:"#01-01",address3:"271029",building:"",unit:"#01-01"}
+{id:"68"},{address1:"612 Punggol Drive",address2:"#01-06",address3:"820612",building:"",unit:"#01-06"}
+{id:"69"},{address1:"676 Woodlands Drive 71",address2:"#B1-02",address3:"730676",building:"Kampung Admiralty",unit:"#B1-02"}
+{id:"70"},{address1:"1 Northpoint Drive",address2:"#B2-103 to 107",address3:"768019",building:"Northpoint City",unit:"#B2-103 to 107"}
+{id:"71"},{address1:"249 Jurong East St 24",address2:"#01-106",address3:"600249",building:"",unit:"#01-106"}
+{id:"72"},{address1:"150 Silat Ave",address2:"#01-44",address3:"60150",building:"",unit:"#01-44"}
+{id:"73"},{address1:"166 Bukit Batok West Ave 8",address2:"#01-256/258",address3:"650166",building:"",unit:"#01-256/258"}
+{id:"74"},{address1:"1 Tampines Walk",address2:"#B1-01",address3:"528523",building:"Our Tampines Hub",unit:"#B1-01"}
+{id:"76"},{address1:"345 Jurong East St 31",address2:"#01-29",address3:"600345",building:"",unit:"#01-29"}
+{id:"77"},{address1:"279 Sengkang East Avenue",address2:"#01-06",address3:"540279",building:"",unit:"#01-06"}
+{id:"78"},{address1:"10 Bukit Batok Central",address2:"#01-08",address3:"659958",building:"Bukit Batok MRT",unit:"#01-08"}
+{id:"79"},{address1:"50 Havelock Rd",address2:"#01-755",address3:"160050",building:"",unit:"#01-755"}
+{id:"80"},{address1:"221 Boon Lay Place",address2:"#02-200",address3:"640221",building:"Boon Lay Shopping Complex",unit:"#02-200"}
+{id:"81"},{address1:"166 Bukit Merah Central",address2:"#01-3531 & 02-3531",address3:"150166",building:"",unit:"#01-3531 & 02-3531"}
+{id:"82"},{address1:"212 Bedok Nth St 1",address2:"#01-147",address3:"460212",building:"",unit:"#01-147"}
+{id:"83"},{address1:"89 Bedok Nth St 4",address2:"#01-77/79",address3:"460089",building:"",unit:"#01-77/79"}
+{id:"84"},{address1:"1 Jelebu Rd",address2:"#01-15 & #02-20",address3:"677743",building:"Bukit Panjang Plaza",unit:"#01-15 & #02-20"}
+{id:"85"},{address1:"1 Jln Anak Bukit",address2:"#B1-01 & #B2-01",address3:"588996",building:"Bukit Timah Plaza",unit:"#B1-01 & #B2-01"}
+{id:"86"},{address1:"65 Airport Boulevard",address2:"#B16-029",address3:"819643",building:"CHANGI AIRPORT T2",unit:"#B16-029"}
+{id:"87"},{address1:"451 Clementi Ave 3",address2:"#01-307",address3:"120451",building:"",unit:"#01-307"}
+{id:"88"},{address1:"352 Clementi Ave 2",address2:"#01-141/143",address3:"120352",building:"",unit:"#01-141/143"}
+{id:"89"},{address1:"587 Bukit Timah Rd",address2:"#01-01",address3:"269707",building:"Coronation Plaza",unit:"#01-01"}
+{id:"90"},{address1:"3 Simei St 6",address2:"#05-01",address3:"528833",building:"Eastpoint",unit:"#05-01"}
+{id:"91"},{address1:"114 Aljunied Ave 2",address2:"#01-75",address3:"380114",building:"",unit:"#01-75"}
+{id:"92"},{address1:"202 Hougang St 21",address2:"#01-00",address3:"530202",building:"",unit:"#01-00"}
+{id:"93"},{address1:"682 Hougang Ave 4",address2:"#01-310",address3:"530682",building:"",unit:"#01-310"}
+{id:"94"},{address1:"90 Hougang Ave 10",address2:"#B1-07",address3:"538766",building:"Hougang Mall",unit:"#B1-07"}
+{id:"95"},{address1:"135 Jurong Gateway Road",address2:"#01-337",address3:"600135",building:"",unit:"#01-337"}
+{id:"97"},{address1:"140 Teck Whye Lane",address2:"#01-351",address3:"680140",building:"",unit:"#01-351"}
+{id:"98"},{address1:"498 Jurong West Street 41",address2:"#01-426",address3:"640498",building:"",unit:"#01-426"}
+{id:"99"},{address1:"71 Kallang Bahru",address2:"#01-529/#02-531",address3:"330071",building:"",unit:"#01-529/#02-531"}
+{id:"100"},{address1:"533 Choa Chu Kang St 51",address2:"#01-01",address3:"680533",building:"Limbang Shopping Centre",unit:"#01-01"}
+{id:""},{address1:"",address2:"",address3:"",building:"",unit:""}
+{id:""},{address1:"",address2:"",address3:"",building:"",unit:""}
+{id:""},{address1:"",address2:"",address3:"",building:"",unit:""}
+
 101       338       Lot 1 Shoppers' Mall                    21 Choa Chu Kang Ave 4, #B1-05  Lot 1 Shoppers' Mall, 689812
 102       339       Marsiling MRT Station                   71 Woodlands Ave 3 #01-01, Marsiling MRT Station, 739044
 103       340       Marine Parade                           No. 6 Marine Parade Central, 449411
