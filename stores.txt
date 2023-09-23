@@ -1,0 +1,195 @@
+4         470       Jalan Kayu                              Blk 447A Jalan Kayu, #01-01/02, 791447
+5         471       Katong Village Hotel                    30 East Coast Road Katong Village Hotel #01-06/07/08/09, 428751
+6         472       Kitchener Complex                       Blk 808 French Road, #01-01, 200808
+7         473       Bedok Mall                              311 New Upper Changi Road #B2-60, Bedok Mall, 467360
+8         474       NUH Medical Centre                      1 Lower Kent Ridge Road, #02-16 NUH Medical Centre, 119082
+10        480       The Seletar Mall                        33 Sengkang West Avenue #B2-24 Seletar Mall, 797653
+11        478       Warehouse Club                          1 Joo Koon Circle, Level 3,629117
+12        434       Jurong Point (JP2)                      63 Jurong Central 3, #03-01 Jurong Point, 648331
+13        355       Sun Plaza (FFS)                         30 Sembawang Drive, #B1-01/02 Sun Plaza, 757713
+14        484       Waterway Point                          83 Punggol Central #B2-32  Waterway Point, 828761
+16        312       Bishan Blk 510                          Blk 510 Bishan St 13 #01-520, 570510
+17        476       Hyper Sports Hub (FFS)                  1 Stadium Place, #01-29 Singapore Sports Hub, 397628
+18        485       Serangoon View                          Blk 476 Upper Serangoon View, #02-18, 530476
+19        427       Sembawang Way                           Blk 355 Sembawang Way #01-01, 750355
+20        428       Changi Airport T3                       65 Airport Boulevard, Basement 2 North Unit B2LS2, #B2-10, Terminal 3, 819663
+21        429       Dover                                   Blk 28 Dover Crescent, #01-83, 130028
+22        430       Upper Boon Keng                         Blk 5 Upper Boon Keng Road, #01-05, 380005
+23        431       Compassvale Link                        Blk 277C Compassvale Link, #01-13, 543277
+24        432       Lorong Limau                            Blk 80 Lorong Limau, #01-191, 320080
+25        435       Buona Vista CC                          Blk 36 Holland Drive, #01-03/04/05, 270036
+26        437       Yew Tee Point                           21 Choa Chu Kang North 6, Yew Tee Point, #B1-01, 689578
+27        438       Joo Chiat Complex                       Blk 2 Joo Chiat Road #01-1139/#02-1139, Joo Chiat Complex, 420002
+28        439       City Square Mall                        180 Kitchener Road, City Square Mall, #B1-09/10, 208539
+29        440       Kang Kar Mall                           100 Hougang Ave 10 #01-01/#02-01, Kang Kar Mall, 538767
+30        444       Canberra Road Blk 511                   Blk 511 Canberra Road, #02-03, 750511
+31        445       Eunos Crescent Blk 5                    Blk 5 Eunos Crescent #01-2619/21, 400005
+32        446       Circuit Road Blk 77                     Blk 77 Circuit Road #01-464/466, 370077
+33        098       Orchid Country Club (DS)                #01-34 Level 1,Orchid Country Club,1 Orchid Club Rd,769162
+34        449       Nex                                     23 Serangoon Central, #03-42 Nex Mall, 556083
+35        450       The Clementi Mall                       3155 Commonwealth Avenue West #B1-12/13/14 The Clementi Mall, 129588
+36        451       MyVillage                               1 Maju Ave #B1-11 to #B1-K09 Serangoon Garden Village, 556679
+38        454       Kim Tian                                18/20 Kim Tian Road, 169252
+39        455       Bishan North Blk 279                    Blk 279 Bishan St 24, #01-62/64, 570279
+40        456       Lengkong Tiga                           Blk 110 Lengkong Tiga, #01-233/235, 410110
+41        457       Geylang Lorong 38                       612/620 Geylang Lorong 38, 389551
+43        459       Scotts Square                           6 Scotts Road #B1-03 to 07 and #B1-10 Scotts Square, 228209
+44        460       PSA Branch                              460 Alexandra Road, #01-09 and #01-16, 119963
+45        461       Hyper Changi (FFS)                      8 Changi Business Park Ave 1, #01-51& #02-51, 486018
+46        462       Zhong Shan Park                         20 Ah Hood Road #02-01 Zhong Shan Park, 329984
+47        463       Chinatown Point                         133 New Bridge Road, #B1-01 Chinatown Point, 059413
+48        464       100AM                                   100 Tras Street #B1-01 100AM, 079027
+49        465       Woodlands Ave 1                         Blk 570B Woodlands Ave 1, #01-06, 732570
+50        466       Valley Point                            491 River Valley Road #01-14 Valley Point, 248371
+51        467       West Coast                              Blk 502 West Coast Drive, #01-41, 120502
+52        469       Hyper Jem (FFS)                         50 Jurong Gateway Road, #B1-21/22 & #B3-01, 608549
+53        481       Redhill                                 20 Lengkok Bahru, #01-13, 159053
+54        488       Jalan Bukit Merah                       1 Jalan Bukit Merah, #01-4500, 150001
+55        477       Bukit Batok HT                          2 Bukit Batok West Ave 7 #01-10, HomeTeamNS Bukit Batok Clubhouse, 659003
+58        499       Yew Tee MRT                             61 Choa Chu Kang Drive, #01-01 Yew Tee MRT Station, 689715
+59        314       Changi City Point                       5 Changi Business Park Central 1 #B1-09/10/11 Changi City Point, 486038
+60        494       Tai Seng                                18 Tai Seng Street, Maple Tree 18 #B1-13, 539775
+61        344       SingPost Centre                         10 Eunos Road 8, SingPost Centre, #B1-101 to 107, 408600
+62        317       Toa Payoh Blk 95                        Blk 95 Toa Payoh Lorong 4, #01-68/70/72, 310095
+63        316       Bendemeer Road                          Blk 30 Bendemeer Road, #01-871, 330030
+64        496       Wisteria Mall (CNC)                     598 Yishun Ring Road, #01-01Wisteria Mall, 768698
+65        366       111 Somerset                            111 Somerset Road, #01-01/02, #01-21 to 30, 238164
+66        351       Punggol Oasis (FFS)                     681 Punggol Drive Oasis Terraces, #B1-01, 820681
+67        348       Ghim Moh Link                           Blk 29A, Ghim Moh Link, #01-01, 271029
+68        453       Punggol Drive Blk 612                   Blk 612 Punggol Drive, #01-06, 820612
+69        347       Kampung Admiralty                       Blk 676 Woodlands Drive 71, #B1-02, Kampung Admiralty, 730676
+70        495       Northpoint City                         1 Northpoint Drive, Northpoint City, #B2-103 to 107, 768019
+71        491       Jurong East Blk 249                     Blk 249 Jurong East St 24, #01-106, 600249
+72        493       Silat Ave Blk 150                       Blk 150 Silat Ave, #01-44, 60150
+73        483       Bukit Batok West                        Blk 166 Bukit Batok West Ave 8, #01-256/258, 650166
+74        301       Our Tampines Hub                        1 Tampines Walk, Our Tampines Hub, #B1-01, 528523
+76        479       Jurong East 345                         Blk 345 Jurong East St 31, #01-29, 600345
+77        482       Sengkang East Avenue                    Blk 279 Sengkang East Avenue, #01-06, 540279
+78        304       Bukit Batok MRT                         10 Bukit Batok Central, #01-08, 659958
+79        305       Bukit Ho Swee                           Blk 50 Havelock Rd, #01-755, 160050
+80        306       Boon Lay Shopping Complex               Blk 221 Boon Lay Place #02-200, Boon Lay Shopping Complex, 640221
+81        307       Bukit Merah Central - FFS               Blk 166 Bukit Merah Central, #01-3531 & 02-3531, 150166
+82        308       Bedok North                             Blk 212 Bedok Nth St 1, #01-147, 460212
+83        309       Bedok Nth Blk 89                        Blk 89 Bedok Nth St 4, #01-77/79, 460089
+84        310       Bukit Panjang Plaza                     No.1 Jelebu Rd, #01-15 & #02-20 Bukit Panjang Plaza, 677743
+85        313       Bukit Timah Plaza                       No.1 Jln Anak Bukit #B1-01 & #B2-01 Bukit Timah Plaza, 588996
+86        318       CHANGI AIRPORT T2                       #B16-029,Basement Level South Terminal 2,65 Airport Boulevard,819643
+87        319       Clementi A (Blk 451)                    Blk 451 Clementi Ave 3, #01-307,120451
+88        320       Clementi Blk 352                        Blk 352 Clementi Ave 2, #01-141/143, 120352
+89        321       Coronation Plaza (closed)               587 Bukit Timah Rd #01-01, Coronation Plaza, 269707
+90        324       Eastpoint                               3 Simei St 6, #05-01 Eastpoint, 528833
+91        325       Geylang East                            Blk 114 Aljunied Ave 2, #01-75, 380114
+92        326       Blk 202 Hougang St 21                   Blk 202 Hougang St 21#01-00, 530202
+93        327       Hougang Blk 682                         Blk 682 Hougang Ave 4, #01-310, 530682
+94        329       Hougang Mall                            90 Hougang Ave 10, Hougang Mall, #B1-07, 538766
+95        331       Jurong East                             Blk 135 Jurong Gateway Road, #01-337, 600135
+97        334       Jalan Teck Whye                         Blk 140 Teck Whye Lane, #01-351, 680140
+98        335       Jurong West St 41                       498 Jurong West Street 41, #01-426, Singapore 640498
+99        336       Kallang Bahru                           Blk 71 Kallang Bahru, #01-529/#02-531, 330071
+100       337       Limbang Shopping Centre                 Blk 533 Choa Chu Kang St 51 #01-01, Limbang Shopping Centre, 680533
+101       338       Lot 1 Shoppers' Mall                    21 Choa Chu Kang Ave 4, #B1-05  Lot 1 Shoppers' Mall, 689812
+102       339       Marsiling MRT Station                   71 Woodlands Ave 3 #01-01, Marsiling MRT Station, 739044
+103       340       Marine Parade                           No. 6 Marine Parade Central, 449411
+104       341       New Upper Changi                        Blk 57 New Upper Changi Rd, #01-1334/1336/1338, 461057
+105       352       Serangoon North Ave 1                   Blk 152B Serangoon North Ave 1, #01-384, 552152
+107       357       Tampines Blk 475                        Blk 475 Tampines St 44, #01-145, 520475
+108       358       Tampines Mall                           4 Tampines Central 5, #B1-12 Tampines Mall, 529510
+109       359       Telok Blangah                           Blk 78A Telok Blangah St 32, #01-01/02, 101078
+110       360       Teban Garden                            Blk 37 Teban Garden Rd, #01-304/305/306, 600037
+111       361       Tanjong Pagar Plaza                     Blk 1 Tanjong Pagar Plaza, #01-01, 082001
+112       362       Thomson Plaza                           301 Upper Thomson Rd #03-37/38 Thomson Plaza, 574408
+113       363       Taman Jurong Shopping Centre            Taman Jurong Shopping Centre,Blk 399 Yung Sheng Rd #01-35, 610399
+114       365       Woodlands 888                           Blk 888 Woodlands Dr 50, #01-757, 730888
+115       367       Whitesands                              1 Pasir Ris Central St 3, #B1-10 Whitesands, 518457
+116       368       Yung Kuang                              Blk 63/66 Yung Kuang Rd, #01-119/#02-119, 610063
+117       369       Yishun MRT                              301 Yishun Ave 2, #01-02, Yishun MRT Station, 769093
+118       371       Hougang One                             No.1 Hougang St 91, #02-01 Hougang 1, 538692
+119       391       Rivervale Plaza                         118 Rivervale Dr #01-08, Rivervale Plaza, 540118
+120       395       Rivervale Mall                          11 Rivervale Crescent, #03-01 Rivervale Mall, 545082
+121       396       Yishun Ring Rd                          Blk 414 Yishun Ring Rd, #01-1853, 760414
+122       397       Toa Payoh HDB Hub                       Blk 500 Lorong 6 Toa Payoh, #B1-32/#01-33, 310500
+123       398       Khatib                                  Blk 849 Yishun Ring Rd, #01-3701/#01-3703, 760849
+124       400       Orchard Grand Court                     131 Killiney Rd #01-01/02/03, Orchard Grand Court, 239571
+125       402       Junction 8                              9 Bishan Place #B1-01 Junction 8 Shopping Centre, 579837
+126       403       The Woodgrove                           30 Woodlands Ave 1 #01-11 The Woodgrove, 739065
+127       405       Bukit Batok East                        Blk 280 Bukit Batok East Ave 3, #01-315, 650280
+128       406       Senja Grand                             Blk 628 Senja Rd #01-01, Senja Grand, 670628
+129       407       Dawson Place                            Blk 57 Dawson Rd, #01-07 Dawson Place, 142057
+130       408       Tiong Bahru Plaza                       302 Tiong Bahru Rd #B1-122 Tiong Bahru Plaza, 168732
+131       409       Depot                                   Blk 108 Depot Rd #01-01, Depot Heights Shopping Centre, 100108
+132       410       Punggol Plaza                           Blk 168 Punggol Field Rd, Punggol Plaza #03-01/02, 820168
+133       413       Tampines Blk 138                        Blk 138 Tampines St 11, #01-136, 521138
+134       414       Chai Chee                               Blk 29B Chai Chee Avenue, #01-62, 462029
+135       415       Serangoon Central                       Blk 253 Serangoon Central Drive, #01-241, 550253
+136       417       Siglap New Market                       934 East Coast Road, Siglap New Market, 459125
+137       419       Pasir Ris West Plaza                    Blk 734 Pasir Ris St 72 #01-37, Pasir Ris West Plaza, 510734
+138       420       AMK Hub                                 53 Ang Mo Kio Ave 3, #B2-40 Ang Mo Kio Hub, 569933
+139       421       Square 2                                10 Sinaran Dr #04-46/47/48/49, Square 2, 307506
+140       422       Tampines CC                             Blk 866A Tampines St. 83, #01-01, 521866
+141       423       Cambridge Blk 43                        Blk 43 Cambridge Road, #01-15, 210043
+142       424       Downtown East                           e! Hub Downtown East, 1 Pasir Ris Close #02-127, 519599
+143       425       Stirling Road                           Blk 170 Stirling Road, #01-1147, 140170
+144       426       Jalan Tiga                              Blk 41 Jalan Tiga, #01-05, 390041
+145       865       NEPTUNE COURT CHEERS                    #01-33,Neptune Court,10 Marine Vista,449034
+146       356       Tampines St 11                          Blk 107 Tampines St 11, #01-353/355/357/359, 521107
+147       625       ANG MO KIO AVE 8 FAIRPRICE EXPRESS      2225 Ang Mo Kio Avenue 8,569810
+148       624       TAMPINES AVE 7 FAIRPRICE EXPRESS        9 Tampines Ave 7,529619
+149       604       EAST COAST FAIRPRICE EXPRESS            239/255 East Coast Road,428932
+150       627       ANG MO KIO AVE 3 FAIRPRICE EXPRESS      3551 Ang Mo Kio Avenue  3,569927
+151       630       PEACE CENTRE FAIRPRICE EXPRESS          1 Sophia Road, #01-18, Peace Centre,228149
+152       605       MACPHERSON FAIRPRICE EXPRESS            110/114 MacPherson Road,348501
+153       355       SUN PLAZA                               #B1-01/02,Sun Plaza,30 Sembawang Drive,757713
+154       907       VISTA POINT CHEERS                      #01-06,VISTA POINT,Block 548 Woodlands Drive 44,730548
+155       620       TOA PAYOH 2 FAIRPRICE EXPRESS           399 Toa Payoh Lorong 2,319640
+156       498       Hillion Mall                            17 Petir Road, #B2-67, 678278
+157       616       UPPER CHANGI RD FAIRPRICE EXPRESS       955 Upper Changi Road North,507662
+158       820       NUS FAIRPRICE EXPRESS                   #01-05,No. 2 College Avenue West #01-05,138607
+159       618       CHOA CHU KANG FAIRPRICE EXPRESS         31 Choa Chu Kang Way,688786
+160       621       LORONG CHUAN FAIRPRICE EXPRESS          384 Lorong Chuan,556810
+161       634       YIO CHU KANG RD CHEERS 160              160 Yio Chu Kang Road,545614
+162       363       TAMAN JURONG  SHOPPING CENTRE           #01-35,Blk 399 Yung Sheng Rd,610339
+163       311       Bedok Reservoir Rd                      Blk 745 Bedok Reservoir Rd, #01-3015, 470745
+164       655       UPPER THOMSON CHEERS                    594 Upper Thomson Road,574420
+165       004       Fairprice PFC                           1 Joo Koon Cir, Singapore 629117
+166       333       Funan Mall                              107 North Bridge Rd, #B1-10, 179105
+167       330       VivoCity                                1 HarbourFront Walk, #B2-23/#01-23, VivoCity, 098585
+168       412       Woodlands Civic Centre                  900 South Woodlands Drive #B1-01, Woodlands Civic Centre, 730900
+169       364       Toa Payoh Lorong 4                      Blk 192 Toa Payoh Lorong 4, #01-670/672, 310192
+170       330       Hyper VivoCity (FFS)                    1 Harbourfront Walk, Singapore 098585
+173       469       FairPrice Xtra JEM                      #B1 -21/22 & B3 -01,50 Jurong Gateway Road,608549
+174       351       PUNGGOL DRIVE OASIS                     B1-01,Oasis Terraces,681 Punggol Drive Oasis Terraces,820681
+175       322       POIZ                                    51, Upper Serangoon road, #01-30 to 32, 41 to 49, The POIZ Centre S(347697)
+176       350       Paya Lebar Quarter                      10 Paya Lebar Road, #B2-09 Paya Lebar Quarter, Singapore, 409057
+177       354       Jewel Changi Airport                    78 Airport Boulevard #B2-205 to 208 Jewel Changi Airport, 819666
+178       370       Canberra Plaza                          133 Canberra View, #B1-03/04, Singapore 750133
+
+179       343       Artra                                   12 Alexandra View #01-18 Singapore 158736
+180       323       LeQuest                                 4 Bukit Batok Street 41 #01-91/92 Singapore 657991
+181       343       Artra (CNC)                             12 Alexandra View #01-18 Singapore 158736
+182       323       LeQuest (CNC)                           4 Bukit Batok Street 41 #01-91/92 Singapore 657991
+183       1111      Donation Store                          Singapore 758526
+184       393       Parkway Parade                          80 Marine Parade Rd, Singapore 449269
+186       393       Hyper Parkway (FFS)                     80 Marine Parade Rd, Singapore 449269
+188
+190       401       Ang Mo Kio Ave 10 Blk 453               453 Ang Mo Kio Ave 10, Block 453, Singapore 560453
+191       461       Hyper Changi                            8 Changi Business Park Ave 1, #01-51& #02-51, 486018
+192       476       Hyper Sports Hub                        1 Stadium Place, #01-29 Singapore Sports Hub, 397628
+193       355       SUN PLAZA                               30 Sembawang Drive, #B1-01/02 Sun Plaza, 757713
+194       399       Balmoral Plaza                          271 Bukit Timah Rd, Singapore 259708
+195       307       Bukit Merah Central                     166 Bukit Merah Central, #01-3531 & #02-3531, Singapore 150166
+196       411       Holland Village                         Raffles Holland V Mall, B1, 118 Holland Ave, Singapore 278997
+197       416       Causeway Point                          1 Woodlands Square, #B1-31/32/33, Singapore 738099
+198       394       Choa Chu Kang St 51                     533 Choa Chu Kang Street 51, Singapore 680533
+199       496       Wisteria Mall                           598 Yishun Ring Road, #01-01Wisteria Mall, 768698
+200       433       Coronation Plaza                        587 Bukit Timah Rd, #01 01, Singapore 269707
+201       441       The Centrepoint                         176 Orchard Rd, Singapore 238843
+202       303       Ang Mo Kio Blk 712                      712 Ang Mo Kio Ave 6, #01-4056 , Singapore 560712
+204       464       Amara (FFS)                             100 Tras St, Singapore 079027
+205       486       Senja Heights                           Blk 642 Senja Close #01-01, 670642
+206       443       Jurong West 502                         Jurong West Ave 1 Blk 502, 640502
+207       349       Sengkang Grand                          70 Compassvale Bow Unit #B1-14, 544692
+208       404       Shaw Plaza                              360 Balestier Road, Shaw Plaza Level 2, 329783
+209       436       The Woodleigh Mall                      11 Bidadari Park Drive, #B1-32/33, The Woodleigh Mall, 367803
+210       468       Orchid Country Club (FFS)               #01-34 Level 1,Orchid Country Club,1 Orchid Club Rd,769162
+211       468       Orchid Country Club (S&G)               1 Orchid Club Road, Orchid Country Club, #01-34, Singapore 769162
+212       371       Hougang Point (FFS)                     Ctrl Pl, Singapore
