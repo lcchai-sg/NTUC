@@ -1,0 +1,140 @@
+158     138607    NUS FAIRPRICE EXPRESS
+1958    138607    FairPrice Xpress NUS
+
+81      150166    Bukit Merah Central - FFS
+195     150166    Bukit Merah Central
+
+179     158736    Artra
+181     158736    Artra (CNC)
+
+151     228149    PEACE CENTRE FAIRPRICE EXPRESS
+1937    228149    FairPrice Xpress Peace Centre
+
+89      269707    Coronation Plaza (closed)
+200     269707    Coronation Plaza
+
+122     310500    Toa Payoh HDB Hub
+1921    310500    Cheers Toa Payoh Central
+
+155     319640    TOA PAYOH 2 FAIRPRICE EXPRESS
+2105    319640    FairPrice Xpress @ Esso Toa Payoh Lorong 2
+
+152     348501    MACPHERSON FAIRPRICE EXPRESS
+2079    348501    FairPrice Xpress @ Esso Macpherson
+
+17      397628    Hyper Sports Hub (FFS)
+192     397628    Hyper Sports Hub
+1994    397628    Cheers Sports Hub
+
+176     409057    Paya Lebar Quarter
+1998    409057    Cheers Paya Lebar Quarter
+
+149     428932    EAST COAST FAIRPRICE EXPRESS
+2077    428932    FairPrice Xpress @ Esso East Coast
+
+145     449034    NEPTUNE COURT CHEERS
+1990    449034    Cheers Neptune Court
+
+184     449269    Parkway Parade
+186     449269    Hyper Parkway (FFS)
+
+7       467360    Bedok Mall
+1985    467360    Cheers Bedok Mall
+
+45      486018    Hyper Changi (FFS)
+191     486018    Hyper Changi
+
+157     507662    UPPER CHANGI RD FAIRPRICE EXPRESS
+2097    507662    FairPrice Xpress @ Esso Upper Changi North B
+
+142     519599    Downtown East
+1872    519599    Cheers Downtown East
+
+140     521866    Tampines CC
+1876    521866    Cheers Tampines Central Club
+
+74      528523    Our Tampines Hub
+2857    528523    Cheers Our Tampines Hub
+
+148     529619    TAMPINES AVE 7 FAIRPRICE EXPRESS
+2113    529619    FairPrice Xpress @ Esso Tampines Ave 7
+
+118     538692    Hougang One
+2021    538692    Cheers Hougang One
+
+120     545082    Rivervale Mall
+2014    545082    Cheers Rivervale Mall
+
+161     545614    YIO CHU KANG RD CHEERS 160
+2127    545614    Cheers @ Esso Yio Chu Kang A
+
+160     556810    LORONG CHUAN FAIRPRICE EXPRESS
+2107    556810    FairPrice Xpress @ Esso Lorong Chuan
+
+147     569810    ANG MO KIO AVE 8 FAIRPRICE EXPRESS
+2115    569810    FairPrice Xpress @ Esso Ang Mo Kio Ave 8
+
+150     569927    ANG MO KIO AVE 3 FAIRPRICE EXPRESS
+2119    569927    FairPrice Xpress @ Ang Mo Kio Ave 3
+
+138     569933    AMK Hub
+2047    569933    Cheers Ang Mo Kio Hub A
+2049    569933    Cheers Ang Mo Kio Hub B
+
+164     574420    UPPER THOMSON CHEERS
+2143    574420    Cheers @ Esso Upper Thomson
+
+47      59413     Chinatown Point
+
+95      600135    Jurong East
+2065    600135    Cheers Jurong East
+
+72      60150     Silat Ave Blk 150
+
+52      608549    Hyper Jem (FFS)
+173     608549    FairPrice Xtra JEM
+
+11      629117    Warehouse Club
+165     629117    Fairprice PFC
+1971    629117    Cheers Fairprice Hub
+
+180     657991    LeQuest
+182     657991    LeQuest (CNC)
+
+100     680533    Limbang Shopping Centre
+198     680533    Choa Chu Kang St 51
+
+159     688786    CHOA CHU KANG FAIRPRICE EXPRESS
+2101    688786    FairPrice Xpress @ Esso Choa Chu Kang Way
+
+58      689715    Yew Tee MRT
+2035    689715    Cheers SMRT Yew Tee
+
+154     730548    VISTA POINT CHEERS
+2061    730548    Cheers Woodlands Vista Point
+
+13      757713    Sun Plaza (FFS)
+193     757713    SUN PLAZA
+153     775713    SUN PLAZA
+
+70      768019    Northpoint City
+2057    768019    Cheers North Point City
+
+64      768698    Wisteria Mall (CNC)
+199     768698    Wisteria Mall
+
+33      769162    Orchid Country Club (DS)
+210     769162    Orchid Country Club (FFS)
+211     769162    Orchid Country Club (S&G)
+
+20      819663    Changi Airport T3
+1884    819663    Cheers Changi T3 Arrival Hall
+
+111     82001     Tanjong Pagar Plaza
+
+132     820168    Punggol Plaza
+2027    820168    Cheers Punggol Plaza
+
+66      820681    Punggol Oasis (FFS)
+174     820681    PUNGGOL DRIVE OASIS
+
